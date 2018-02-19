@@ -42,6 +42,9 @@
 究長卿而唐家時事固可因之¶
 而重嘆也¶
 <pb:KR4c0032_SBCK_000-3b>¶
+# SB1_0655-009.png
+# page missing
+
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0166-000劉隨州詩集-目録.
 <pb:KR4c0032_SBCK_000-4a>¶
